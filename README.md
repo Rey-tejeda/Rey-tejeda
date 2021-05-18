@@ -2,8 +2,8 @@
 <img width="100" src="https://user-images.githubusercontent.com/81835249/118708737-16f02800-b7ea-11eb-91d9-966dd96d199e.jpg" /> 
 
 # Reinaldy Dumes Tejeda
-
-*reinaldy.tejeda@outlook.com
+### Contact Me
+reinaldy.tejeda@outlook.com
 
 1+(912)689-2082
 
@@ -27,10 +27,6 @@ Dec2019-Mar2020
 5. Produced comprehensive service records of all maintenance and repair tasks for customers.
 6. Tested newly installed equipment to determine proper functionality and compliance with regulations.
 
-
-
-
-
 2.
 
 #### Job Title
@@ -47,24 +43,16 @@ Aug2017-Dec2019
 5. Led fire teams during battle drills and training exercises.
 6. Trained International forces to complete tasks at hand with ample communication and collaboration.
 
+#### technologies
+- [Java]https://docs.oracle.com/en/java/
+- [Javascript]https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- [HTML]https://html.com/document/
+- [Python]https://docs.python.org/3/ 
 
 
 
 
-*reinaldy.tejeda@outlook.com
-
-1+(912)689-2082
-
-# technologies
-- [Java]
-- Javascript
-- HTML
-- [Python]
-
-
-
-
-Color | RGB
+Skills | Proficiency 
 ------|----
 red | 0xff000
 green | 0xff000
